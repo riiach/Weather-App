@@ -24,7 +24,7 @@ https://yourusername.github.io/Weather-App/
 Example:
 
 ```
-![Weather App Preview](weather_app_preveiw.png)  
+![Weather App Preview](weather_app_preview.png)  
 ```
 
 ---
