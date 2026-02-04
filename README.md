@@ -9,12 +9,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this app displays temperature
 
 ## 🚀 Live Demo
 
-*Add your GitHub Pages link here if you deploy it.*
-Example:
-
-```
-https://yourusername.github.io/Weather-App/
-```
+https://riiach.github.io/Weather-App/
 
 ---
 
