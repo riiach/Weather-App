@@ -20,12 +20,9 @@ https://yourusername.github.io/Weather-App/
 
 ## 🖼️ Preview
 
-*Add a screenshot of your UI here*
-Example:
 
-```
 ![Weather App Preview](weather_app_preview.png)  
-```
+
 
 ---
 
